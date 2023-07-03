@@ -1,0 +1,5 @@
+# Ignore the "node_modules" folder at the root of the project
+/node_modules
+
+# Ignore any "node_modules" folder inside any directory
+**/node_modules
